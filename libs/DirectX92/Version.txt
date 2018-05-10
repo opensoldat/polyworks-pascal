@@ -1,0 +1,5 @@
+Clootie_DirectX92.exe (01-May-2007) from http://www.clootie.ru/delphi/download_dx92.html
+Or alternatively:
+Clootie_DirectX92_Apr07.exe from http://sourceforge.net/projects/delphi-dx9sdk/
+All folders except JEDI were removed as they are unnecessary and just eat up space.
+You can get them by downloading the exe file (see links above).
