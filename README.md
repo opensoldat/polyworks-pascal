@@ -8,6 +8,6 @@ Delphi 7 or Lazarus (in the future)
 This is a WIP Port of Soldat Polyworks and currently doesn't compile.
 
 ## License
-This is a port of the original Polyworks project therefore the same license applies.  
+This is a port of the [original Polyworks](https://github.com/Soldat/polyworks) project therefore the same license applies.  
 However: Currently there is no license specified on the Polyworks project.  
 Changes applied to this port are under MIT license.  
