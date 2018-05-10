@@ -1,0 +1,31 @@
+# general files
+*.bak
+*.bk1
+*.bk2
+*.gex
+*.map
+
+# windows temp files
+*.db
+*.exe
+*.lnk
+
+# lazarus temp files
+*.a
+*.lps
+*.o
+*.ppu
+*.saved
+*.so
+*.stat
+*.dcu
+backup
+
+# deployment files
+build
+release
+
+# vim temp files
+*.swo
+*.swp
+*.swu
