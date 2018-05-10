@@ -21,6 +21,17 @@
 *.dcu
 backup
 
+# delphi temp files
+*.cbk
+*.cfg
+*.dcu
+*.ddp
+*.drc
+*.dsk
+*.dsm
+*.obj
+*.~*
+
 # deployment files
 build
 release
