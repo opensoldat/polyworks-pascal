@@ -1,9 +1,11 @@
 # Soldat PolyWorks (Pascal Port)
 Soldat map editor (Pascal Port)
 
-Needs Delphi 7 to be compiled.
+## Requirements
+Delphi 7 or Lazarus (in the future)
 
-This is a WIP Port of Soldat Polyworks.
+## Note
+This is a WIP Port of Soldat Polyworks and currently doesn't compile.
 
 ## License
 This is a port of the original Polyworks project therefore the same license applies.  
